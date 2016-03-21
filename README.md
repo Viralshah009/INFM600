@@ -101,6 +101,13 @@ References
 
 US Elections 2016 (2016) Retrieved from https://www.kaggle.com/benhamner/2016-us-election. March 20, 2016
 
+---------
+Credits
+---------
+
+Phaneendra Kumar N</br>
+Viral Shah
+
 
 
 
