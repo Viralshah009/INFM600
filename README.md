@@ -35,9 +35,6 @@ Ha: Alternate hypothesis: There is a significant correlation between the educati
 Data statistics
 -----------------
 
-**State**  4</br>
-**county** 162
-
 <table>
   <tr>
     <th></th><th>Min.</th><th>1st Qu.</th><th>Median</th><th>Mean</th><th>3rd Qu.</th><th>Max.</th>
@@ -50,13 +47,15 @@ Data statistics
   </tr>
 </table>
 
+**State**  4</br>
+**county** 162
+
 ----------
 Analysis
 ---------
 
 **Number of Votes versus Educated people**
-
-
+The Graph shows the correlation between the number of votes and the educated people across all four states combined. It supports our findings of our test that showed the correlation to be 0.57. The graphs also shows positive linearity between the two variables as expected which means educated people are involved in the election and their presence should matter to the candidates who run for the office.
 
 ![alt tag](https://github.com/Viralshah009/INFM600/raw/master/Number_Of_Votes_vs_Educated_People.png)
 
@@ -64,7 +63,8 @@ Analysis
 
 ![alt tag](https://github.com/Viralshah009/INFM600/raw/master/Correlation_Plot.png)
 
-**Exploratory Analsysis**
+**Exploratory Analysis**
+From the votecount dataframe, the variation in the number of votes cast to the number of educated people is different across all the counties. We assumed the presence of educated people to have a positive effect on the number of votes cast and have found the same after carrying on the test
 
 -----
 Files
