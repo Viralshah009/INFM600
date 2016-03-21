@@ -12,7 +12,7 @@ From the original dataset, information that is required to answer the question "
 The dataset is released in the framework of INFM 600, Information Environments, and Spring 2016, at the University of Maryland iSchool, http://ischool.umd.edu/mim.
 
 #Research question
-Is there a correlation between a number of educated people and the number of votes cast for both the parties (Democratic and Republic) has been maintained
+Is there any correlation between the number of educated people and the number of votes cast for both the parties (Democratic and Republic) has been maintained?
 
 #Hypothesis
 Ho: Null Hypothesis: It states that there is no correlation between the education of people and the number of votes cast in the primary election.
@@ -43,6 +43,20 @@ Educated people  ->  60780   1131000   2310000   7386000    5619000 194900000
 The data in the INFM600 repository is distributed under a Creative Commons 
 Attribution-NonCommercial-ShareAlike 4.0 International License (see 
 https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+
+The data contained in the original hetrec2011-movielens-2k.zip was distributed with 
+permission of Kaggle.
+
+The data is made available for non-commercial use. Those interested in using the data 
+in a commercial context should contact Kaggle members: 
+https://www.kaggle.com/contact
+
+#Acknowledgements
+We thank the Kaggle research  (http://www.kaggle.com) for hosting and allowing use of the US elections 2016 dataset in the master dataset and IBen Hamner for creating and releasing the master data set.
+
+#References
+When using this data set you shoud cite
+ - the original US elections 2016 dataset from Kagle , http://www.Kaggle.come
 
 
 
