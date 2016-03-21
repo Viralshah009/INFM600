@@ -55,7 +55,7 @@ Analysis
 ---------
 <br>The entire process of reading individual datasets and merging them to run the correlation test has been documented in the INFM600_InformationAnalysisandDiscovery document. The same can be followed by anyone interested to know how we came up with follow the commands of main.Rmd file.
 
-**Number of Votes versus Educated people**
+**Number of Votes versus Educated people** </br>
 The Graph shows the correlation between the number of votes and the educated people across all four states combined. It supports our findings of our test that showed the correlation to be 0.57. The graphs also shows positive linearity between the two variables as expected which means educated people are involved in the election and their presence should matter to the candidates who run for the office.
 
 ![alt tag](https://github.com/Viralshah009/INFM600/raw/master/Number_Of_Votes_vs_Educated_People.png)
@@ -64,7 +64,7 @@ The Graph shows the correlation between the number of votes and the educated peo
 
 ![alt tag](https://github.com/Viralshah009/INFM600/raw/master/Correlation_Plot.png)
 
-**Exploratory Analysis**
+**Exploratory Analysis** </br>
 <br>From the votecount dataframe, the variation in the number of votes cast to the number of educated people is different across all the counties. We assumed the presence of educated people to have a positive effect on the number of votes cast and have found the same after carrying on the test
 
 -----
