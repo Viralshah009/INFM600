@@ -1,0 +1,65 @@
+---
+title: "INFM600"
+author: "Viral Shah, Phaneendra Kumar"
+date: "March 21, 2016"
+output: word_document
+---
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+```{r}
+##setting directory
+setwd("C:/Viral/Courses/INFM 600/Information Discovery/2016_presidential_election")
+getwd()
+
+##reading datasets
+countyfacts = read.csv("county_facts.csv",na.strings = c("NA","","NULL"))
+results = read.csv("primary_results.csv")
+countyfacts$state_abbreviation = factor(countyfacts$state_abbreviation)
+results$county=paste(results$county,"County")
+
+##calculating the population of educated people of each county
+countyfacts$educatedpeople = countyfacts$PST045214*countyfacts$EDU635213
+
+##subsetting the states to only include Iowa, New Hampshire, Nevada, South Carolina
+fourstates = subset(countyfacts, state_abbreviation %in% c("IA","NH","NV","SC"))
+
+##calculating the total votes per county
+votecount=aggregate(votes ~ county, FUN=sum,data=results)
+colnames(votecount) <- c("area_name","votes")
+
+##merging fourstates and votecount dataframe
+combineresult=merge(x=fourstates,y=votecount)
+
+## descriptive statistics of both variables
+summary(combineresult$votes)
+summary(combineresult$educatedpeople)
+
+##Correlation test and writing the file to the system
+cor.test(combineresult$educatedpeople,combineresult$votes)
+write.csv(combineresult,"combineresult.csv")
+
+##plotting the correlation
+library(ggplot2)
+ggplot(combineresult,aes(educatedpeople,votes))+geom_point()+labs(x="Number of Educated People",y="Total number of votes")
+
+##plotting the correlation statewise
+p <- ggplot(combineresult,aes(educatedpeople,votes))+geom_point()+labs(x="Number of Educated People",y="Total number of votes")
+p+facet_grid(state_abbreviation ~ .)
+
+```
+
