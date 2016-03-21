@@ -106,6 +106,9 @@ References
 
 US Elections 2016 (2016) Retrieved from https://www.kaggle.com/benhamner/2016-us-election. March 20, 2016
 
+Kumar Phaneendra K., Shah, V. (2015). combineresult [Data CSV file]. Available from
+https://github.com/Viralshah009/INFM600/blob/master/combineresult.csv
+
 -----------
 Credits
 -----------
