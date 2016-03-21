@@ -18,7 +18,7 @@ The dataset is released in the framework of INFM 600, Information Environments, 
 ------------------
 Research question
 ------------------
-Elections are an important aspect for determining the future of a country's administration. It is, therefore, important to understand various factors that can be considered who can contribute to the outcome of the elections and see how much are they related to elections. Among these factors, the literacy of the people who vote for their candidate is a significant one. We intend to see if there is any relation between the education of the people and the total number of votes that are being cast in their counties. Does the presence of more literate people in a county results in more voting or there is no effect.
+Elections are an important aspect for determining the future of a country's administration. It is, therefore, important to understand various factors that can be considered which contributes to the outcome of the elections and see how much are they related to elections. Among these factors, the literacy of the people who vote for their candidate is a significant one. We intend to see if there is any relation between the education of the people and the total number of votes that are being cast in their counties. Does the presence of more literate people in a county results in more voting or there is no effect.
 
 Is there any correlation between the number of educated people and the number of votes cast for both the parties (Democratic and Republic) has been maintained?
 
@@ -53,6 +53,7 @@ Data statistics
 ----------
 Analysis
 ---------
+The entire process of reading individual datasets and merging them to run the correlation test has been documented in the INFM600_InformationAnalysisandDiscovery document. The same can be followed by anyone interested to know how we came up with follow the commands of main.Rmd file.
 
 **Number of Votes versus Educated people**
 The Graph shows the correlation between the number of votes and the educated people across all four states combined. It supports our findings of our test that showed the correlation to be 0.57. The graphs also shows positive linearity between the two variables as expected which means educated people are involved in the election and their presence should matter to the candidates who run for the office.
@@ -97,20 +98,13 @@ The data 'combinedresults.csv' is made available for non-commercial use. Those i
 Acknowledgements
 ------------------
 
-We thank the Kaggle (http://www.kaggle.com) for hosting and allowing use of the US elections 2016 dataset in the master dataset and IBen Hamner for creating and releasing the master data set.
+We thank the Kaggle research  (http://www.kaggle.com) for hosting and allowing use of the US elections 2016 dataset in the master dataset and IBen Hamner for creating and releasing the master data set.
 
 -----------
 References
 -----------
 
 US Elections 2016 (2016) Retrieved from https://www.kaggle.com/benhamner/2016-us-election. March 20, 2016
-
----------
-Credits
----------
-
-Phaneendra Kumar N</br>
-Viral Shah
 
 
 
