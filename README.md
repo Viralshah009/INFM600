@@ -6,7 +6,7 @@ Version
 --------
 Version 1.0 (March 2016)
 
-------------
+-----------
 Description
 ------------
 This data set has been derived from the two datasets of 2016 US Election which has the data updated till 25 Feb 2016 (https://www.kaggle.com/benhamner/2016-us-election) created by Ben Hamner. The first original data set includes county demographic information from the US Census. The second original data set includes election results of four states; South Carolina, Nevada, IOWA, New Hampshire.
