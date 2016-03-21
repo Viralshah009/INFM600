@@ -56,7 +56,7 @@ We thank the Kaggle research  (http://www.kaggle.com) for hosting and allowing u
 
 #References
 When using this data set you shoud cite
- - the original US elections 2016 dataset from Kagle , http://www.Kaggle.come
+ - the original US elections 2016 dataset from Kaggle , http://www.Kaggle.come
 
 
 
