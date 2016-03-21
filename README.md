@@ -11,5 +11,15 @@ From the original dataset, information that is required to answer the question "
 
 The dataset is released in the framework of INFM 600, Information Environments, and Spring 2016, at the University of Maryland iSchool, http://ischool.umd.edu/mim.
 
+#Research question
+Is there a correlation between a number of educated people and the number of votes cast for both the parties (Democratic and Republic) has been maintained
+
+#Hypothesis
+Ho: Null Hypothesis: It states that there is not difference in the mean of votes from a more educated population county and less educated population county.
+
+Ha: Alternate hypothesis: It states that there is not difference in the mean of votes from a more educated population county and less educated population county.
+
+
+
 
 
