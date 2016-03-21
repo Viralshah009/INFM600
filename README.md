@@ -72,12 +72,9 @@ License
 	Attribution-NonCommercial-ShareAlike 4.0 International License (see 
 	https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 	
-	The data contained in the original hetrec2011-movielens-2k.zip was distributed with 
-	permission of Kaggle.
+	The data contained in the original datasets [county_facts.csv, county_facts_dictionary.csv and primary_results.csv] was 			distributed with permission of Kaggle.The data is made available for non-commercial use. Those interested in using the 			data in a commercial context should contact Kaggle members: https://www.kaggle.com/contact
 	
-	The data is made available for non-commercial use. Those interested in using the data 
-	in a commercial context should contact Kaggle members: 
-	https://www.kaggle.com/contact
+	The data 'combinedresults.csv' is made available for non-commercial use. Those interested in using the data in a commercial 			context should contact the owners(Phaneendra Kumar N, Viral Shah)
 
 ------------------
 Acknowledgements
