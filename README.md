@@ -70,7 +70,7 @@ The Graph shows the correlation between the number of votes and the educated peo
 -----
 Files
 ------
-**+Combinesresults.csv**
+**+combinesresults.csv**
 This data set is derived from merging two datasets(county_facts and primary_result). This was used to determine the correlation between the number of educated people and total votes cast in the primary election
 	
 **+county_facts.csv**
@@ -92,7 +92,7 @@ https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 	
 The data contained in the original datasets [county_facts.csv, county_facts_dictionary.csv and primary_results.csv] was 			distributed with permission of Kaggle.The data is made available for non-commercial use. Those interested in using the 			data in a commercial context should contact Kaggle members: https://www.kaggle.com/contact
 	
-The data 'combinedresults.csv' is made available for non-commercial use. Those interested in using the data in a commercial 			context should contact the owners(Phaneendra Kumar N, Viral Shah)
+The data 'combinedresults.csv' is made available for non-commercial use. Those interested in using the data in a commercial 			context should contact the owners (Phaneendra Kumar N, Viral Shah)
 
 ------------------
 Acknowledgements
@@ -109,8 +109,8 @@ US Elections 2016 (2016) Retrieved from https://www.kaggle.com/benhamner/2016-us
 -----------
 Credits
 -----------
-Phaneendrakumar N
-Viral Shah
+Phaneendra Kumar N
+<br>Viral Shah
 
 
 
