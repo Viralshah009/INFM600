@@ -31,8 +31,8 @@ Ha: Alternate hypothesis: It states that there is a significant correlation betw
 Data statistics
 -----------------
 
-State -> 4
-county ->  1929
+State  4
+county 1929
 
 <table>
   <tr>
@@ -46,7 +46,17 @@ county ->  1929
   </tr>
 </table>
 
+----------
+Analysis
+---------
 
+Number of Votes versus Educated people
+
+![alt tag](https://raw.githubusercontent.com/Viralshah009/INFM600/Number_Of_Votes_vs_Educated_People.png)
+
+Plotting the Correlation
+
+![alt tag](https://raw.githubusercontent.com/Viralshah009/INFM600/Number_Of_Votes_vs_Educated_People.png)
 
 
 -----
