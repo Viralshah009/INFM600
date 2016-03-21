@@ -15,9 +15,35 @@ The dataset is released in the framework of INFM 600, Information Environments, 
 Is there a correlation between a number of educated people and the number of votes cast for both the parties (Democratic and Republic) has been maintained
 
 #Hypothesis
-Ho: Null Hypothesis: It states that there is not difference in the mean of votes from a more educated population county and less educated population county.
+Ho: Null Hypothesis: It states that there is no correlation between the education of people and the number of votes cast in the primary election.
 
-Ha: Alternate hypothesis: It states that there is not difference in the mean of votes from a more educated population county and less educated population county.
+Ha: Alternate hypothesis: It states that there is a significant correlation between the education of the people and the number of votes cast in the primary election.
+
+#Data statistics
+State -> 4
+county ->  1929
+                       Min.   1st Qu.   Median    Mean      3rd Qu.    Max. 
+Votes  ->              95    9904      24620      69940     73290    646400
+Educated people  ->  60780   1131000   2310000   7386000    5619000 194900000
+
+#Files
++Combinesresults.csv
+ This data set is derived from merging two datasets.
+
++county_facts.csv
+ This data set includes county demographic information from the US Census
+
++county_facts_dictionary.csv
+ This files includes desciptive names of all the columns in county_facts files.
+
++primary_results.csv
+ This data set includes election results of four states; South Carolina, Nevada, IOWA, New Hampshire.
+
+#License
+The data in the INFM600 repository is distributed under a Creative Commons 
+Attribution-NonCommercial-ShareAlike 4.0 International License (see 
+https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+
 
 
 
