@@ -98,7 +98,7 @@ The data 'combinedresults.csv' is made available for non-commercial use. Those i
 Acknowledgements
 ------------------
 
-We thank the Kaggle research  (http://www.kaggle.com) for hosting and allowing use of the US elections 2016 dataset in the master dataset and IBen Hamner for creating and releasing the master data set.
+We thank the Kaggle (http://www.kaggle.com) for hosting and allowing use of the US elections 2016 dataset in the master dataset and IBen Hamner for creating and releasing the master data set.
 
 -----------
 References
