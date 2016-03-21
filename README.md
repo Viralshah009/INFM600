@@ -60,20 +60,21 @@ Analysis
 
 ![alt tag](https://github.com/Viralshah009/INFM600/raw/master/Correlation_Plot.png)
 
+**Exploratory Analsysis**
 
 -----
 Files
 ------
-+Combinesresults.csv
+**+Combinesresults.csv**
 This data set is derived from merging two datasets.
 	
-+county_facts.csv
+**+county_facts.csv**
 This data set includes county demographic information from the US Census
 	
-+county_facts_dictionary.csv
+**+county_facts_dictionary.csv**
 This files includes desciptive names of all the columns in county_facts files.
 	
-+primary_results.csv
+**+primary_results.csv**
 This data set includes election results of four states; South Carolina, Nevada, IOWA, New Hampshire.
  
 ---------
@@ -98,10 +99,7 @@ We thank the Kaggle research  (http://www.kaggle.com) for hosting and allowing u
 References
 -----------
 
-When using this data set you shoud cite
- - the original US elections 2016 dataset from Kaggle , https://www.kaggle.com/benhamner/2016-us-election
-
-
+US Elections 2016 (2016) Retrieved from https://www.kaggle.com/benhamner/2016-us-election. March 20, 2016
 
 
 
