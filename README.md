@@ -33,39 +33,51 @@ Data statistics
 
 State -> 4
 county ->  1929
-                       Min.   1st Qu.   Median    Mean      3rd Qu.    Max. 
-Votes  ->              95    9904      24620      69940     73290    646400
-Educated people  ->  60780   1131000   2310000   7386000    5619000 194900000
+
+<table>
+  <tr>
+    <th></th><th>Min.</th><th>1st Qu.</th><th>Median</th><th>Mean</th><th>3rd Qu.</th><th>Max.</th>
+  </tr>
+  <tr>
+   <td>Votes</td><td>95</td><td>9904</td><td>24620</td><td>69940</td><td>73290</td><td>646400</td>
+  </tr>
+  <tr>
+   <td>Educated people</td> <td>60780</td><td>60780</td><td>2310000</td><td>2310000</td><td>5619000</td><td>194900000</td>
+  </tr>
+</table>
+
+
+
 
 -----
 Files
 ------
-+Combinesresults.csv
- This data set is derived from merging two datasets.
-
-+county_facts.csv
- This data set includes county demographic information from the US Census
-
-+county_facts_dictionary.csv
- This files includes desciptive names of all the columns in county_facts files.
-
-+primary_results.csv
- This data set includes election results of four states; South Carolina, Nevada, IOWA, New Hampshire.
+	+Combinesresults.csv
+	 This data set is derived from merging two datasets.
+	
+	+county_facts.csv
+	 This data set includes county demographic information from the US Census
+	
+	+county_facts_dictionary.csv
+	 This files includes desciptive names of all the columns in county_facts files.
+	
+	+primary_results.csv
+	 This data set includes election results of four states; South Carolina, Nevada, IOWA, New Hampshire.
  
 ---------
 License
 ---------
 
-The data in the INFM600 repository is distributed under a Creative Commons 
-Attribution-NonCommercial-ShareAlike 4.0 International License (see 
-https://creativecommons.org/licenses/by-sa/4.0/legalcode).
-
-The data contained in the original hetrec2011-movielens-2k.zip was distributed with 
-permission of Kaggle.
-
-The data is made available for non-commercial use. Those interested in using the data 
-in a commercial context should contact Kaggle members: 
-https://www.kaggle.com/contact
+	The data in the INFM600 repository is distributed under a Creative Commons 
+	Attribution-NonCommercial-ShareAlike 4.0 International License (see 
+	https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+	
+	The data contained in the original hetrec2011-movielens-2k.zip was distributed with 
+	permission of Kaggle.
+	
+	The data is made available for non-commercial use. Those interested in using the data 
+	in a commercial context should contact Kaggle members: 
+	https://www.kaggle.com/contact
 
 ------------------
 Acknowledgements
