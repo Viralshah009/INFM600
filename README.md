@@ -52,29 +52,29 @@ county ->  1929
 -----
 Files
 ------
-	+Combinesresults.csv
-	 This data set is derived from merging two datasets.
++Combinesresults.csv
+This data set is derived from merging two datasets.
 	
-	+county_facts.csv
-	 This data set includes county demographic information from the US Census
++county_facts.csv
+This data set includes county demographic information from the US Census
 	
-	+county_facts_dictionary.csv
-	 This files includes desciptive names of all the columns in county_facts files.
++county_facts_dictionary.csv
+This files includes desciptive names of all the columns in county_facts files.
 	
-	+primary_results.csv
-	 This data set includes election results of four states; South Carolina, Nevada, IOWA, New Hampshire.
++primary_results.csv
+This data set includes election results of four states; South Carolina, Nevada, IOWA, New Hampshire.
  
 ---------
 License
 ---------
 
-	The data in the INFM600 repository is distributed under a Creative Commons 
-	Attribution-NonCommercial-ShareAlike 4.0 International License (see 
-	https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+The data in the INFM600 repository is distributed under a Creative Commons 
+Attribution-NonCommercial-ShareAlike 4.0 International License (see 
+https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 	
-	The data contained in the original datasets [county_facts.csv, county_facts_dictionary.csv and primary_results.csv] was 			distributed with permission of Kaggle.The data is made available for non-commercial use. Those interested in using the 			data in a commercial context should contact Kaggle members: https://www.kaggle.com/contact
+The data contained in the original datasets [county_facts.csv, county_facts_dictionary.csv and primary_results.csv] was 			distributed with permission of Kaggle.The data is made available for non-commercial use. Those interested in using the 			data in a commercial context should contact Kaggle members: https://www.kaggle.com/contact
 	
-	The data 'combinedresults.csv' is made available for non-commercial use. Those interested in using the data in a commercial 			context should contact the owners(Phaneendra Kumar N, Viral Shah)
+The data 'combinedresults.csv' is made available for non-commercial use. Those interested in using the data in a commercial 			context should contact the owners(Phaneendra Kumar N, Viral Shah)
 
 ------------------
 Acknowledgements
@@ -87,7 +87,7 @@ References
 -----------
 
 When using this data set you shoud cite
- - the original US elections 2016 dataset from Kaggle , http://www.Kaggle.come
+ - the original US elections 2016 dataset from Kaggle , https://www.kaggle.com/benhamner/2016-us-election
 
 
 
