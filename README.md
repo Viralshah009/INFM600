@@ -98,13 +98,13 @@ The data 'combinedresults.csv' is made available for non-commercial use. Those i
 Acknowledgements
 ------------------
 
-We thank Kaggle (http://www.kaggle.com) for hosting and allowing us the use of the US elections 2016 dataset in the master dataset and IBen Hamner for creating and releasing the master data set.
+We thank Kaggle (http://www.kaggle.com) for hosting and allowing us the use of the US elections 2016 dataset in the master dataset and Ben Hamner for creating and releasing the master data set.
 
 -----------
 References
 -----------
 
-US Elections 2016 (2016) Retrieved from https://www.kaggle.com/benhamner/2016-us-election. March 20, 2016
+Hamner, B. US Elections 2016 (2016) Retrieved from https://www.kaggle.com/benhamner/2016-us-election. March 20, 2016
 
 Kumar Phaneendra N., Shah, V. (2015). combineresult [Data CSV file]. Available from
 https://github.com/Viralshah009/INFM600/blob/master/combineresult.csv
