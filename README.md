@@ -54,11 +54,11 @@ Number of Votes versus Educated people
 
 
 
-![alt tag](https://github.com/viralshah/INFM600/raw/master/Number_Of_Votes_vs_Educated_People.png)
+![alt tag](https://github.com/Viralshah009/INFM600/raw/master/Number_Of_Votes_vs_Educated_People.png)
 
 Plotting the Correlation
 
-![alt tag](https://github.com/viralshah/INFM600/blob/master//Number_Of_Votes_vs_Educated_People.png)
+![alt tag](https://github.com/Viralshah009/INFM600/raw/master/Correlation_Plot.png)
 
 
 -----
