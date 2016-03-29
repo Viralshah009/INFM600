@@ -59,6 +59,7 @@ Analysis
 **Number of Votes versus Educated people** </br>
 The Graph shows the correlation between the number of votes and the educated people across all four states combined. It supports our findings of our test that showed the correlation to be 0.57. The graphs also shows positive linearity between the two variables as expected which means educated people are involved in the election and their presence should matter to the candidates who run for the office.
 
+
 ![alt tag](https://github.com/Viralshah009/INFM600/raw/master/Number_Of_Votes_vs_Educated_People.png)
 
 **Plotting the Correlation**
@@ -115,6 +116,5 @@ Credits
 -----------
 Phaneendra Kumar N
 <br>Viral Shah
-
 
 
